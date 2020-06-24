@@ -1,1 +1,1 @@
-# Game_of_Thrones_Data_Analysis
+# game-of-thrones-data-analysis
