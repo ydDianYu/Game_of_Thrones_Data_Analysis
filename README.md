@@ -3,4 +3,4 @@ This project explores battles in *A Song of Ice and Fire*, the series of fantasy
 
 Of course, it goes without saying that this project contains spoilers.
 
-The original dataset can be found here: https://github.com/chrisalbon/war_of_the_five_kings_dataset
+The dataset can be found here: https://github.com/chrisalbon/war_of_the_five_kings_dataset
